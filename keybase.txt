@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/warrenlindsey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://warrenlindsey.com
+  * I am warrenlindsey (https://keybase.io/warrenlindsey) on keybase.
+  * I have a public key ASARgXt5KFe6Aqd8XF8y-ol9bAbcGBB8GaH3ueN4c3DB0go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cba3ee3609442468612991e404ee5f198e6d85e20adf48d62536d4bfa51f3db60a",
+      "host": "keybase.io",
+      "kid": "012011817b792857ba02a77c5c5f32fa897d6c06dc18107c19a1f7b9e3787370c1d20a",
+      "uid": "abab044b40ff0187b205fb3001d6a419",
+      "username": "warrenlindsey"
+    },
+    "merkle_root": {
+      "ctime": 1590622577,
+      "hash": "ea9a1a4ebc9332efafa64e331efd1131eb7d32d6bdae662426b229c89bafaec17a6ddcd92c2f49c3bd349d1d071e212c8590d8234f0f131a97667028e9392cad",
+      "hash_meta": "fb662d8d28dc857e01340a2d5308d771c623a0896479fe74a7124ebedbae19b1",
+      "seqno": 16425431
+    },
+    "service": {
+      "entropy": "5D3a6Pnpy3KwsAWNeztGds6p",
+      "hostname": "warrenlindsey.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1590622641,
+  "expire_in": 504576000,
+  "prev": "7dc8b3164ce4132bb7fc12f07f1f9440b31faba54d50665be4b05efd9ab34526",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEYF7eShXugKnfFxfMvqJfWwG3BgQfBmh97njeHNwwdIKp3BheWxvYWTESpcCF8QgfcizFkzkEyu3/BLwfx+UQLMfq6VNUGZb5LBe/ZqzRSbEILfRUiORvqQkrn57K/MZk7GN0n587Gz2go57Red1GLkjAgHCo3NpZ8RA7rw0i02GLXGfi/7k9xZr2aApWrfBXqVjzRYJhmMJOZKrIhZsHumcfIoCtGD8SwgOiORD9wuT48+vb9ea4+hgA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIxF3wn4JCAjTagKIjb/Wsq9SwYSIhl/IRCUMboVSuERo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/warrenlindsey
+
+==================================================================
